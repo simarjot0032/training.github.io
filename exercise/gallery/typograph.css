@@ -1,0 +1,46 @@
+body{
+    margin: 2px;
+    
+}
+h1,h2,h3,p,li{
+    margin-left: 7%;
+}
+.container
+{
+    margin: 5% 10%;
+    display: flex;
+    flex-direction: column;
+    /* margin-left: 5rem; */
+    /* align-items: center; */
+    height: 109%;
+    width:64%;
+    border: 3px solid black;
+}
+.image
+{    margin-left: 7%;
+    height: 40vh;
+    width: 87%;
+}
+.heading
+{
+    text-transform: capitalize;
+    
+}
+.inparagraph
+{
+font-size: 1.5rem;
+width: 50vw;
+font-family: 'Noto Serif';
+color:black;
+font-weight: 500;
+font-style: italic;
+}
+ul >li,h2,h3
+{
+    text-transform: capitalize;
+    font-family: Poppins;
+}
+h1,h2,h3
+{
+    font-family: 'Agdasima';
+}
