@@ -3,12 +3,12 @@
 
 
 
-HTML exercise[exerciselink]()
+HTML exercise[exerciselink](https://simarjot0032.github.io/training.github.io/indez.html)
 
-CSS exercise[basic]()
+CSS exercise[basic](https://simarjot0032.github.io/training.github.io/exercise/index.html)
 
-CSS exercise[flexbox]()
+CSS exercise[flexbox](https://simarjot0032.github.io/training.github.io/exercise/exercise2.html)
 
-CSS exercise[grid]()
+CSS exercise[grid](https://simarjot0032.github.io/training.github.io/exercise/gallery/grallery.html)
 
-CSS exercise[typography]()
+CSS exercise[typography](https://simarjot0032.github.io/training.github.io/exercise/gallery/typograph.html)
