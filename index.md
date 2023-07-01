@@ -3,7 +3,7 @@
 
 
 
-HTML exercise[exerciselink](https://simarjot0032.github.io/training.github.io/indez.html)
+HTML exercise[exerciselink](https://simarjot0032.github.io/page/indez.html)
 
 CSS exercise[basic](https://simarjot0032.github.io/training.github.io/exercise/index.html)
 
