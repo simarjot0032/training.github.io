@@ -1,22 +1,55 @@
-.gallery{
+ 
+   
+ .gallery{
     margin: 0;
     width: 100%;
-    height:150vh;
+    /* height:200vh; */
+    
     display:grid;
-    grid-template-columns: 350px;
-    grid-template-rows: repeat(9,40vh);
+    grid-template-columns: 50vw;
+    grid-template-rows: repeat(9,20vh);
     gap: 4px;
-}
+    
+    
+ }
+ .top,.bottomdivisions{
+    display: block;
+ }
+ 
 .image
+{
+    width: 100%;
+    height: 100%;
+    width: 100%; 
+    object-fit: cover; 
+
+} 
+
+@media screen and (min-width:768px) {
+    .gallery{
+        display: grid;
+        grid-template-columns: 25vh 25vh;
+        grid-template-rows: 30vh 30vh 30vh 30vh;
+   
+    } 
+    
+    .image{
+        height: 100%;
+        width: 100%;
+    }
+}
+ 
+
+
+/* .image
 {
     height: 100%;
     width: 100%;
     object-fit: cover;
 
-}
+} */
 
-
-@media screen and (min-width:768px)  and (max-width:1024px){
+/* @media screen and (min-width:768px)  and (max-width:1024px){
     .gallery{
         margin-top: 0;
         width:100%;
@@ -55,52 +88,7 @@
     grid-row: span 2;
     grid-column: span 2;
    }
-   
-
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+} */
 
 /* 
 .gallery{

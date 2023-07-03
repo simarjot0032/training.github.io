@@ -12,3 +12,7 @@ CSS exercise[flexbox](https://simarjot0032.github.io/training.github.io/exercise
 CSS exercise[grid](https://simarjot0032.github.io/training.github.io/exercise/gallery/grallery.html)
 
 CSS exercise[typography](https://simarjot0032.github.io/training.github.io/exercise/gallery/typograph.html)
+
+CSS exercise[images](https://simarjot0032.github.io/training.github.io/exercise/gallery/imgss.html)
+
+CSS exercise[images](https://simarjot0032.github.io/training.github.io/exercise/gallery/sidenav.html)
