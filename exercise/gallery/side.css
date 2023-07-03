@@ -1,0 +1,36 @@
+body{
+    font-size:2rem;
+    color: white;
+}
+aside{
+    width: 99vw;
+    height: 100vh;
+    background-color: #2a2138;
+    
+}
+i{
+    display: inline-block;
+    position: relative;
+    top: 37px;
+}
+a{
+    text-decoration: none;
+    color: white;
+
+}
+a:hover,a::selection,li:hover{
+    background-color: #867e91;
+    
+    z-index: 1;
+}
+li{
+    list-style-type: none;
+margin-left: 40px;
+}
+@media screen and (min-width:600px) {
+    aside{
+        width: 50vw;
+        height: 100vh;
+    }
+
+}

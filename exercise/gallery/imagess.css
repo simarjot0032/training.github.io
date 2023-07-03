@@ -1,0 +1,46 @@
+
+.container{
+    height:100vh;
+    width: 100%;
+    background-image: url(https://images.unsplash.com/photo-1464802686167-b939a6910659?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2050&q=80);
+    background-attachment:none ;
+   
+   
+}
+.hubble{
+    color: aliceblue;
+    text-transform: uppercase;
+    font-size: 2rem;
+    font-weight:900;
+    text-align: center;
+    position: relative;
+    top:40vh;
+}
+.discovery{
+    position: relative;
+    color:blanchedalmond;
+    text-transform: capitalize;
+    text-align: center;
+    top: 50vh;
+    background-color: rgb(1, 1, 1,0.5);
+    width: 15rem;
+    margin-left: 22%;
+
+}
+@media screen and (min-width:650px) and (max-width:1199px){
+    .hubble{
+        font-size: 2.7rem;
+    }
+    .discovery{
+        margin-left: 35vw;
+        font-size: 1.5rem;
+    }
+}
+@media screen and (min-width:1200px){
+ .hubble{
+    font-size: 2.9rem;
+ }  
+ .discovery{
+    margin-left: 40vw;
+ } 
+}
