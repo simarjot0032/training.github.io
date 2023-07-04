@@ -32,8 +32,9 @@
         font-size: 2.7rem;
     }
     .discovery{
-        margin-left: 35vw;
+        margin-left: 28vw;
         font-size: 1.5rem;
+        width: 20rem;
     }
 }
 @media screen and (min-width:1200px){
@@ -41,6 +42,7 @@
     font-size: 2.9rem;
  }  
  .discovery{
-    margin-left: 40vw;
+    margin-left: 35vw;
+    width: 20rem;
  } 
 }
