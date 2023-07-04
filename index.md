@@ -16,3 +16,5 @@ CSS exercise[typography](https://simarjot0032.github.io/training.github.io/exerc
 CSS exercise[images](https://simarjot0032.github.io/training.github.io/exercise/gallery/imgss.html)
 
 CSS exercise[images](https://simarjot0032.github.io/training.github.io/exercise/gallery/sidenav.html)
+
+CSS exercise[forms](https://simarjot0032.github.io/training.github.io/exercise/gallery/forms.html)
