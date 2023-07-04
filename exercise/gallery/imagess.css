@@ -1,5 +1,7 @@
 
 .container{
+    display: flex;
+    flex-direction: column;
     height:105vh;
     width: 100%;
     background-image: url(https://images.unsplash.com/photo-1464802686167-b939a6910659?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2050&q=80);
@@ -17,24 +19,52 @@
     top:40vh;
 }
 .discovery{
-    position: relative;
-    color:blanchedalmond;
-    text-transform: capitalize;
+    display: flex;
+    color: antiquewhite;
     text-align: center;
-    top: 50vh;
-    background-color: rgb(1, 1, 1,0.5);
-    width: 20rem;
-    margin-left: 12%;
-
+    background-color: rgba(0,0,0,0.5);
+    width:15rem;
+    font-size: 1.5rem;
+    margin-left: 25vw;
+    margin-top: 500px;
+    align-content: center;
+    justify-content: center;
+    
 }
-@media screen and (min-width:650px) and (max-width:1199px){
+@media screen and (min-width:500px) and (max-width:687px){
     .hubble{
         font-size: 2.7rem;
     }
     .discovery{
-        margin-left: 28vw;
-        font-size: 1.5rem;
-        width: 20rem;
+        display: flex;
+    color: antiquewhite;
+    text-align: center;
+    background-color: rgba(0,0,0,0.5);
+    width:15rem;
+    font-size: 1.5rem;
+    margin-left: 32vw;
+    margin-top: 500px;
+    align-content: center;
+    justify-content: center;
+    
+    }
+}
+@media screen and (min-width:600px) and (max-width:1199px){
+    .hubble{
+        font-size: 2.7rem;
+    }
+    .discovery{
+        display: flex;
+    color: antiquewhite;
+    text-align: center;
+    background-color: rgba(0,0,0,0.5);
+    width:15rem;
+    font-size: 1.5rem;
+    margin-left: 32vw;
+    margin-top: 500px;
+    align-content: center;
+    justify-content: center;
+    
     }
 }
 @media screen and (min-width:1200px){
@@ -42,7 +72,16 @@
     font-size: 2.9rem;
  }  
  .discovery{
-    margin-left: 35vw;
-    width: 20rem;
+    display: flex;
+    color: antiquewhite;
+    text-align: center;
+    background-color: rgba(0,0,0,0.5);
+    width:15rem;
+    font-size: 1.5rem;
+    margin-left: 38vw;
+    margin-top: 500px;
+    align-content: center;
+    justify-content: center;
+    
  } 
 }
